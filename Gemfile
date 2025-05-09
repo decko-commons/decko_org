@@ -15,7 +15,6 @@ else
   end
 
   gem "card-mod-new_relic", path: "./vendor/card-mods"
-  gem "decko-cap", path: "./vendor/decko-cap"
 end
 
 gem "mysql2", "> 0.4"
@@ -34,7 +33,7 @@ end
 gem 'net-smtp', require: false
 
 # VERSIONING ISSUES
-gem "ffi", "1.16.3"                  # 1.17 requires rubygems version >= 3.3.22
+#gem "ffi", "1.16.3"                  # 1.17 requires rubygems version >= 3.3.22
 
 
 # gem 'net-pop', require: false

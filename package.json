@@ -1,5 +1,5 @@
 {
-  "name": "@decko-commons/decko_org",
+  "name": "@wikirate/decko_org",
   "version": "1.0.0",
   "main": "config.ru",
   "directories": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/decko-commons/decko_org.git"
+    "url": "git+https://github.com/wikirate/decko_org.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/decko-commons/decko_org/issues"
+    "url": "https://github.com/wikirate/decko_org/issues"
   },
-  "homepage": "https://github.com/decko-commons/decko_org#readme",
+  "homepage": "https://github.com/wikirate/decko_org#readme",
   "description": "",
   "publishConfig": {
     "@decko-commons:registry": "https://npm.pkg.github.com"
