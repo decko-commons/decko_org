@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Cardio.application.class.load_tasks
+Decko::Deck.load_tasks
