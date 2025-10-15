@@ -23,3 +23,4 @@ config/*.yml
 /backups
 /public
 /.idea
+**/.DS_Store

@@ -4,6 +4,3 @@
 [submodule "vendor/decko"]
 	path = vendor/decko
 	url = https://github.com/decko-commons/decko.git
-[submodule "vendor/decko-cap"]
-	path = vendor/decko-cap
-	url = https://github.com/decko-commons/decko-cap.git
